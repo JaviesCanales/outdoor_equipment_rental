@@ -1,0 +1,14 @@
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.AssemblyInfoInputs.cache
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.AssemblyInfo.cs
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.csproj.CoreCompileInputs.cache
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/bin/Debug/net9.0/Alquiler
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/bin/Debug/net9.0/Alquiler.deps.json
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/bin/Debug/net9.0/Alquiler.runtimeconfig.json
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/bin/Debug/net9.0/Alquiler.dll
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/bin/Debug/net9.0/Alquiler.pdb
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.dll
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/refint/Alquiler.dll
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.pdb
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/Alquiler.genruntimeconfig.cache
+/Users/javiescanales/Documents/OOP 2025/Project/Alquiler/obj/Debug/net9.0/ref/Alquiler.dll
