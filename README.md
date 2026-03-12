@@ -43,4 +43,8 @@ Requires [.NET 9](https://dotnet.microsoft.com/download)
 
 ## Author
 Javies J. Canales Rodriguez  
+<<<<<<< HEAD
 Inter American University of Puerto Rico, Arecibo Campus
+=======
+Inter American University of Puerto Rico, Arecibo Campus
+>>>>>>> 2b6cab08056120948ea948c9fbf3b8c4c2fd2767
